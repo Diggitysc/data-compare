@@ -1,3 +1,5 @@
 Verified that the old exports contained corrected data compared to old export
 
+This could be accomplished much faster with pandas/functional programming
+
 
